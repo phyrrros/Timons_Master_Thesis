@@ -1,0 +1,8 @@
+### README ###
+
+The folder "fit_programming_III" contains the simulation program code and resources, including Settings and stem files.
+
+"img" contains images that were included into the thesis text.
+
+"R_code-analysis" includes R code files and workspace images. Most code files require data in the workspace that can be either read with other scripts or loaded directly from the workspace images. Most of the workspace images are similar and based on "read_RV5-a-c-swap.RData". Some attitional data transformation is done in the beginning of the scripts. The four major scripts for the analysis done in chapter 3 are "duration.R" (3.1.), "pile_stability.R" (3.2.), "volume.R" (3.3.) and "RunB_by_sts.R" (3.4.)
+The code is not meant to be readable, so good luck with that. Or just read the thesis paper.
